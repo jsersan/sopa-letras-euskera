@@ -33,5 +33,3 @@ npm run build
 ```
 
 ¡Gozatu! 🎉
-# sopa-letras-euskera
-# sopa-letras-euskera
